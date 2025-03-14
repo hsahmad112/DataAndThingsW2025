@@ -4,4 +4,5 @@ exercise_12\data
 exam_handin\9_MLOps\mlruns
 exam_handin\9_MLOps\data
 exam_handin/9_MLOps/mlruns/**/*.pkl
-exam_handin/9_MLOps/mlruns/**/artifacts/**/model.pkl
+exam_handin/9_MLOps/**/**/**/**/model.pkl
+exam_handin/9_MLOps/mlruns/**/**/**/**
