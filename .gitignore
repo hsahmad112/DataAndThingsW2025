@@ -1,7 +1,6 @@
 data
 extracurricular_activities\recomender_systems\data
 exercise_12\data
-exam_handin
 exam_handin\9_MLOps\mlruns
 exam_handin\9_MLOps\data
 exam_handin/9_MLOps/mlruns/**/*.pkl
