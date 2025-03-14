@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/467924142919063124/27c63d64649a405d8583457af40cd683/artifacts
+end_time: 1741860237675
+entry_point_name: ''
+experiment_id: '467924142919063124'
+lifecycle_stage: active
+run_id: 27c63d64649a405d8583457af40cd683
+run_name: hour-day-month-weekday| n_est=50| depth=5| lr=0.01| time_split_point=2002-06-21
+  00:00:00
+run_uuid: 27c63d64649a405d8583457af40cd683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741860237276
+status: 3
+tags: []
+user_id: Hassan

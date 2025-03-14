@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/10a682d983594959b423e6d86cd74dcf/artifacts
+end_time: 1741855370446
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 10a682d983594959b423e6d86cd74dcf
+run_name: adaptable-shoat-284
+run_uuid: 10a682d983594959b423e6d86cd74dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855359243
+status: 3
+tags: []
+user_id: Hassan

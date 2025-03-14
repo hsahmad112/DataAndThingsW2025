@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/9f91d2318e174461877206670bef31dc/artifacts
+end_time: 1741855406323
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 9f91d2318e174461877206670bef31dc
+run_name: fortunate-mouse-294
+run_uuid: 9f91d2318e174461877206670bef31dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855394918
+status: 3
+tags: []
+user_id: Hassan

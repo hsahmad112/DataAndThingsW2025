@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/cd5cfdfb4c7d4bb4a17f8e983194e2db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: cd5cfdfb4c7d4bb4a17f8e983194e2db
+run_name: able-dolphin-841
+run_uuid: cd5cfdfb4c7d4bb4a17f8e983194e2db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741857427534
+status: 1
+tags: []
+user_id: Hassan

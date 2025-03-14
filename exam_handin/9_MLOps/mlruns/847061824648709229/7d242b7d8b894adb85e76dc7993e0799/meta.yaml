@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/7d242b7d8b894adb85e76dc7993e0799/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 7d242b7d8b894adb85e76dc7993e0799
+run_name: monumental-squid-400
+run_uuid: 7d242b7d8b894adb85e76dc7993e0799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741857447397
+status: 1
+tags: []
+user_id: Hassan

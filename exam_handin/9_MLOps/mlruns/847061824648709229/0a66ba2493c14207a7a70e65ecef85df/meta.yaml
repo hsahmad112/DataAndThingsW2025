@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/0a66ba2493c14207a7a70e65ecef85df/artifacts
+end_time: 1741854923475
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 0a66ba2493c14207a7a70e65ecef85df
+run_name: wise-fish-448
+run_uuid: 0a66ba2493c14207a7a70e65ecef85df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741853263079
+status: 4
+tags: []
+user_id: Hassan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/f16a522e23db46e4aa25a4a37ede9f66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: f16a522e23db46e4aa25a4a37ede9f66
+run_name: debonair-newt-766
+run_uuid: f16a522e23db46e4aa25a4a37ede9f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741857427436
+status: 1
+tags: []
+user_id: Hassan

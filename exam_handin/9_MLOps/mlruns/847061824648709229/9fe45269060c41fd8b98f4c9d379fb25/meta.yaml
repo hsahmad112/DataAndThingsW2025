@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/9fe45269060c41fd8b98f4c9d379fb25/artifacts
+end_time: 1741855647744
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 9fe45269060c41fd8b98f4c9d379fb25
+run_name: powerful-kit-904
+run_uuid: 9fe45269060c41fd8b98f4c9d379fb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855557076
+status: 3
+tags: []
+user_id: Hassan

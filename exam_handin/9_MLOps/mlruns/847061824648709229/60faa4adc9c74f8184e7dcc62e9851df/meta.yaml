@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/60faa4adc9c74f8184e7dcc62e9851df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 60faa4adc9c74f8184e7dcc62e9851df
+run_name: gregarious-snipe-217
+run_uuid: 60faa4adc9c74f8184e7dcc62e9851df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741857524932
+status: 1
+tags: []
+user_id: Hassan

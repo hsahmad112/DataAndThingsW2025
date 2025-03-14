@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/d0b33220935c4116a55c07daee935f8d/artifacts
+end_time: 1741856015072
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: d0b33220935c4116a55c07daee935f8d
+run_name: enchanting-kit-524
+run_uuid: d0b33220935c4116a55c07daee935f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855888327
+status: 3
+tags: []
+user_id: Hassan

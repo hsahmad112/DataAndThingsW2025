@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/65637a5da854436e995a9261ac176e88/artifacts
+end_time: 1741855322530
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 65637a5da854436e995a9261ac176e88
+run_name: intelligent-cat-60
+run_uuid: 65637a5da854436e995a9261ac176e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855311361
+status: 3
+tags: []
+user_id: Hassan

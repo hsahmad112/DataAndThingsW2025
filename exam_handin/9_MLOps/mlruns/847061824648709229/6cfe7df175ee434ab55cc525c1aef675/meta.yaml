@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/6cfe7df175ee434ab55cc525c1aef675/artifacts
+end_time: 1741855258973
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 6cfe7df175ee434ab55cc525c1aef675
+run_name: skittish-moth-76
+run_uuid: 6cfe7df175ee434ab55cc525c1aef675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855246453
+status: 3
+tags: []
+user_id: Hassan

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/402d2c50bcef408da8104748f87fda2e/artifacts
+end_time: 1741856269903
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 402d2c50bcef408da8104748f87fda2e
+run_name: orderly-fowl-85
+run_uuid: 402d2c50bcef408da8104748f87fda2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741856112786
+status: 3
+tags: []
+user_id: Hassan

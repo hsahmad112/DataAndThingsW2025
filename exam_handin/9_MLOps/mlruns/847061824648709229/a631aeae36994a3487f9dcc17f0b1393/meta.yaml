@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/a631aeae36994a3487f9dcc17f0b1393/artifacts
+end_time: 1741855384590
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: a631aeae36994a3487f9dcc17f0b1393
+run_name: blushing-auk-755
+run_uuid: a631aeae36994a3487f9dcc17f0b1393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855370453
+status: 3
+tags: []
+user_id: Hassan

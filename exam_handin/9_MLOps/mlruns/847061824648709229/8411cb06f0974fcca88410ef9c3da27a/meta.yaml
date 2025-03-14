@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hassan/Desktop/Data%20and%20Things/code/Data_and_Things_W2025_Exercises/exam_handin/9_MLOps/mlruns/847061824648709229/8411cb06f0974fcca88410ef9c3da27a/artifacts
+end_time: 1741855297465
+entry_point_name: ''
+experiment_id: '847061824648709229'
+lifecycle_stage: active
+run_id: 8411cb06f0974fcca88410ef9c3da27a
+run_name: receptive-shrimp-292
+run_uuid: 8411cb06f0974fcca88410ef9c3da27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741855284635
+status: 3
+tags: []
+user_id: Hassan
