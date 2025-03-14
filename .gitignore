@@ -5,3 +5,4 @@ exam_handin
 exam_handin\9_MLOps\mlruns
 exam_handin\9_MLOps\data
 exam_handin/9_MLOps/mlruns/**/*.pkl
+exam_handin/9_MLOps/mlruns/**/artifacts/**/model.pkl
